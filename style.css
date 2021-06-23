@@ -1,0 +1,46 @@
+body {
+    background-color: lightskyblue;
+}
+
+h1 {
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+img {
+    height: 200px;
+}
+
+.container {
+    background-color: aliceblue;
+    width: 1000px;
+    padding: 20px;
+    align-items: center;
+}
+
+.boxes {
+    align-items: center;
+}
+
+.box {
+    height: 250px;
+    width: 900px;
+    margin: auto;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.top-box {
+    background-color: cornflowerblue;
+}
+
+.middle-box {
+    background-color: darkcyan;
+}
+
+.bottom-box {
+    background-color: darkseagreen;
+}
